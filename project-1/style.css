@@ -1,0 +1,35 @@
+
+.container-2 {
+    padding-left: 10px;
+
+
+}
+
+.navbar {
+    color: #ffff;
+    display: flex;
+    text-align: center;
+    /* position: fixed; */
+    width: 100%;
+    padding-left: 20px;
+    background-color: #000000;
+    height: 70px;
+    cursor: pointer;
+    /* margin-top: -20px; */
+   
+}
+
+.head button {
+    background-color: #000000;
+    color: #ffff;
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+.li-st {
+    padding-left: 20px;
+}
+
+.ul-li-st {
+    padding-left: 20px;
+}
